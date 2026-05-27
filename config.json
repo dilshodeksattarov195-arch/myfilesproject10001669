@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservonnect",
+        "uuid": 12504148,
+        "checksum": "8auyyj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
